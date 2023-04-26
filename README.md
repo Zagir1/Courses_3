@@ -1,2 +1,3 @@
-# Courses_3
-Выполнение заданий it code, pt.3
+# Aiogram bot template
+This is simple aiogram's telegram bot template.
+Feel free to share.
